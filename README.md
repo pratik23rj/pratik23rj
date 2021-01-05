@@ -1,5 +1,10 @@
 # Hi there, I'm Pratik 👋
 
+
+
+
+
+
 ## I'm a Front End Developer, who love to code! 
 
 - 📚 I’m currently learning React, Javascript, Nodejs and Firebase.

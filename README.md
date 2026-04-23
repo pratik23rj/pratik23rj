@@ -1,30 +1,17 @@
-# Hi there, I'm Pratik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Pratik 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 
 
 
 
-## I'm a Front End Developer, who love to code! 
+## I'm a Product Designer with 5 years of experience who discovered the magic of building. After transitioning from development to design, I found my sweet spot where code and design collide. Now I'm creating small apps and learning to bring ideas to life.
 
-- 📚 I’m currently learning Vue, Javascript, Nodejs and Firebase.
-- 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
-- ⚡ Fun fact: I love to travel new places.
+- 🎨 Background: Started as a developer, evolved into product design, now coding is fueling my creativity
+- 🚀 I'm currently building small apps and exploring the intersection of design & development
+- 💻 Learning: React, Next.js, modern full-stack tools, and the art of shipping products
+- 👯 Looking to collaborate with designers and developers who are passionate about creating great products
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="tailwind" width="26px" src="https://user-images.githubusercontent.com/30311763/103614996-c91c0700-4f4f-11eb-846a-65de1712c867.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Vue" width="26px" src="https://user-images.githubusercontent.com/30311763/105448270-0268ac80-5c9c-11eb-8345-c873b5e90fb3.png" />
-<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
 
